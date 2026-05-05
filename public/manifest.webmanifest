@@ -1,0 +1,19 @@
+{
+  "name": "建筑设备刷题系统",
+  "short_name": "建筑设备刷题",
+  "description": "用于《建筑设备》课程概念题、填空题、判断题、选择题和简答题复习。",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#0d9488",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

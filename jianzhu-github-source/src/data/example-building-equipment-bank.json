@@ -1,0 +1,140 @@
+[
+  {
+    "id": "concept-001",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：水表节点",
+    "answer": "是安装在引入管上的水表及其前后设置的阀门和泄水装置的总称。",
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["概念题", "建筑给水"],
+    "module": "建筑给水",
+    "difficulty": "easy"
+  },
+  {
+    "id": "concept-002",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：水封",
+    "answer": "水封是利用一定高度的存水阻止排水管道内有害气体进入室内的措施。",
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["概念题", "建筑排水"],
+    "module": "建筑排水",
+    "difficulty": "easy"
+  },
+  {
+    "id": "blank-001",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "自然通风中形成热压的条件是：室内外必须有____，窗孔间必须有____。",
+    "answer": ["温差", "高差"],
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["填空题", "自然通风"],
+    "module": "通风与空调",
+    "difficulty": "medium"
+  },
+  {
+    "id": "blank-002",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "室内给水系统一般由引入管、水表节点、给水管道、____、配水龙头和用水设备等组成。",
+    "answer": ["阀门附件"],
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["填空题", "建筑给水"],
+    "module": "建筑给水",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tf-001",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "沿流程由于克服摩擦阻力做功消耗了水流的机械能而损失的水头，称为局部水头损失。",
+    "answer": false,
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["判断题", "建筑给水"],
+    "module": "建筑给水",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tf-002",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "排水系统中设置通气管的主要作用之一是稳定管内压力，保护存水弯水封。",
+    "answer": true,
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["判断题", "建筑排水"],
+    "module": "建筑排水",
+    "difficulty": "easy"
+  },
+  {
+    "id": "choice-001",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "自然循环热水供暖系统中，供水干管必须有向膨胀水箱方向（ ）的坡向。",
+    "options": ["上升", "下降", "平衡", "转折"],
+    "answer": "A",
+    "explanation": "正确答案：A. 上升",
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["选择题", "供暖"],
+    "module": "供暖系统",
+    "difficulty": "medium"
+  },
+  {
+    "id": "choice-002",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "建筑内部生活排水系统中，用来阻止臭气进入室内的主要构件是（ ）。",
+    "options": ["检查口", "水封装置", "伸顶通气管", "清扫口"],
+    "answer": "B",
+    "explanation": "正确答案：B. 水封装置",
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["选择题", "建筑排水"],
+    "module": "建筑排水",
+    "difficulty": "easy"
+  },
+  {
+    "id": "choice-003",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "建筑电气照明设计中，衡量被照面上光通量密度的指标是（ ）。",
+    "options": ["照度", "亮度", "光强", "色温"],
+    "answer": "A",
+    "explanation": "正确答案：A. 照度",
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["选择题", "建筑电气"],
+    "module": "建筑电气",
+    "difficulty": "easy"
+  },
+  {
+    "id": "short-001",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "简述生活排水系统的组成与作用？",
+    "answer": "（1）受水器：收集和排除污废水的设备。\n（2）排水管道：将污废水排至室外排水管网。\n（3）通气管道：稳定管内压力，防止水封破坏。\n（4）清通设备：便于管道检查和疏通。",
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["简答题", "排水系统"],
+    "module": "建筑排水",
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-002",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "简述建筑给水系统设置水箱的主要作用。",
+    "answer": "水箱可以调节用水量变化，储备一定水量，稳定系统压力，并在市政管网供水不足或短时停水时保证建筑内部基本用水需求。",
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["简答题", "建筑给水"],
+    "module": "建筑给水",
+    "difficulty": "medium"
+  },
+  {
+    "id": "short-003",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "简述机械通风系统与自然通风系统的主要区别。",
+    "answer": "自然通风依靠热压或风压形成空气流动，能耗低但受室外气象条件影响较大；机械通风依靠风机提供动力，风量和组织形式更易控制，但需要消耗电能并设置相应设备。",
+    "sourceFile": "example-building-equipment-bank.json",
+    "tags": ["简答题", "通风与空调"],
+    "module": "通风与空调",
+    "difficulty": "medium"
+  }
+]

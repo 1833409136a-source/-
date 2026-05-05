@@ -1,0 +1,2565 @@
+[
+  {
+    "id": "concept-001",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：水表节点",
+    "answer": "是安装在引入管上的水表及其前后设置的阀门和泄水装置的总称。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "concept-002",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：径流系数",
+    "answer": "一定汇水面积的雨水量与降雨量的比值",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "concept-003",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：3热水供水温度",
+    "answer": "指热水供应设备(如锅炉，水加热器)的出口温度。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "concept-004",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：工艺性空调",
+    "answer": "对某些生产工艺要求而设置的空调系统。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "concept-005",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：无组织排风",
+    "answer": "在形成室内正压作用下，室内空气通过围护结构的缝隙排至室外。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "concept-006",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：充满度",
+    "answer": "表示管道内的水深与其管径的比值。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "concept-007",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：照度",
+    "answer": "指单位被照面积上所接受的光通量。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "concept-008",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：保护接地",
+    "answer": "为保障人身安全，防止间接触电而将用电设备的外露可导电部分进行接地，称为保护接地。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "建筑电气"
+    ],
+    "module": "建筑电气"
+  },
+  {
+    "id": "concept-009",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：显色性",
+    "answer": "同一颜色的物体在具有不同光谱功率分布的光源照射下，会显出不同的颜色，光源显现被照物体颜色的性能称为显色性。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "concept-010",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：光通量",
+    "answer": "光源在单位时间内向周围空间辐射出去的，并能使人眼产生光感的能量，称为光通量。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "concept-011",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：消防电梯",
+    "answer": "消防电梯是在建筑物发生火灾时供消防人员进行灭火与救援使用且具有一定功能的电梯。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "消防设备"
+    ],
+    "module": "消防设备"
+  },
+  {
+    "id": "concept-012",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：换气次数",
+    "answer": "换气次数是指通风量与房间体积的比值。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "concept-013",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：膨胀水箱",
+    "answer": "膨胀水箱是热水采暖系统和中央空调水路系统中的重要部件，它的作用是收容和补偿系统中水的胀缩量。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "concept-014",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：建筑节能",
+    "answer": "指建筑物在使用和建造过程中，合理地使用和有效地利用能源，以便在满足同等需要或达到相同目的的条件下，尽可能降低能耗。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "concept-015",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：通风",
+    "answer": "把建筑物室内污浊的空气直接或净化后排至室外，再把新鲜的空气补充进来，从而保持室内的空气环境符合卫生标准的方法叫通风。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "concept-016",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：建筑环境",
+    "answer": "指建筑物室内外的热湿环境、室内空气品质、建筑光环境和建筑声环境的总称。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "concept-017",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：城市热岛现象",
+    "answer": "在建筑物与人口密集的大城市，由于地面覆盖物吸收的辐射热多，发热体也多，形成市中心的温度高于郊区，即“城市热岛”现象。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "concept-018",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：机械通风",
+    "answer": "利用通风机的运转给空气一定的能量,造成通风压力以克服矿井通风阻力,使地面空气不断地进入井下,沿着预定路线流动,然后将污风再排出井外的通风方法叫机械通风。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "concept-019",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：频闪效应",
+    "answer": "指气体放电光源的辐射光通量随交流电的波动而强弱变化所造成的灯光闪烁",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "concept-020",
+    "course": "建筑设备",
+    "type": "concept",
+    "question": "请解释：眩光",
+    "answer": "当所观察物亮度极高或与背景亮度对比强烈时所引起的不舒适或造成视力下降的现象。",
+    "sourceFile": "1概念题.docx",
+    "tags": [
+      "概念题"
+    ]
+  },
+  {
+    "id": "blank-001",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "自然通风中形成热压的条件是：①室内外必须有____；②窗孔间必须有____。",
+    "answer": [
+      "温差",
+      "高差"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "blank-002",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "自然循环热水供暖系统是靠水的____形成____的使水在系统中循环的。",
+    "answer": [
+      "密度差",
+      "压力差"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "blank-003",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "要使全面通风效果好，不仅需要足够的____，而且要合理的____。",
+    "answer": [
+      "通风量",
+      "气流组织"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "blank-004",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "室内清洁度要求较高的房间全面通风时，采用机械送风，即利用风机把新鲜空气送入室内，使进风量____排风量，室内压力____室外大气压，保证室内处于正压状态。",
+    "answer": [
+      "大于",
+      "大于"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "blank-005",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "蒸汽供暖系统按回水的动力不同分为____和____机____两类。",
+    "answer": [
+      "重力回水",
+      "械回水"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "blank-006",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "____是阻止蒸汽通过，只允许凝水和不凝气体及时排往凝水管路的一种专门的装置。",
+    "answer": [
+      "疏水器"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-007",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "制冷剂是在压缩式制冷系统中进行压缩、____、____、____四个主要热力过程。",
+    "answer": [
+      "冷凝",
+      "节流膨胀",
+      "蒸发"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-008",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "以____为零点起算的压强值称为相对压强，在工程上，相对压强又称____。",
+    "answer": [
+      "当地大气压强",
+      "表压"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-009",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "水箱上设的____是用以控制水箱的最高水位的。",
+    "answer": [
+      "溢流管"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-010",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "对于含湿量一定的湿空气，焓值仅与____有关。",
+    "answer": [
+      "温度"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-011",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "按系统循环动力分，热水供暖系统可分为____和____系统。",
+    "answer": [
+      "自然循环",
+      "机械循环"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "blank-012",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "按照回水动力的的不同，蒸汽供暖系统可以分为(重力回水和机械回水)两种方式。",
+    "answer": [],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "parseWarning": "未检测到 Word 下划线答案，保留原句供人工检查"
+  },
+  {
+    "id": "blank-013",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "钢管连接的方法有____、____和____。",
+    "answer": [
+      "螺纹连接",
+      "焊接",
+      "法兰连接"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-014",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "给水系统按用途可分为____。",
+    "answer": [
+      "生活、生产、消防"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-015",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "热水供应系统的组成____、____、____。",
+    "answer": [
+      "热媒系统",
+      "热水系统",
+      "附件"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "blank-016",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "水泵结合器的作用____。",
+    "answer": [
+      "连接消防车向室内给水管网供水加压"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-017",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "闭式自动喷水灭火系统包括____、____、____。",
+    "answer": [
+      "湿式系统",
+      "干式系统",
+      "预作用系统"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "消防设备"
+    ],
+    "module": "消防设备"
+  },
+  {
+    "id": "blank-018",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "钢管连接方法有____、____三种。",
+    "answer": [
+      "螺纹、法兰",
+      "焊接"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-019",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "伸顶通气管宜与排水立管的管径____。",
+    "answer": [
+      "相同"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "blank-020",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "内排雨水系统的连接管一般与雨水斗的管径____但不得小于____mm。",
+    "answer": [
+      "相同",
+      "100"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "blank-021",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "自动喷水灭火系统的水流报警装置主要有____和____。",
+    "answer": [
+      "水力警铃、水流指示器",
+      "压力开关"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "消防设备"
+    ],
+    "module": "消防设备"
+  },
+  {
+    "id": "blank-022",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "承插连接一般宜使____方向排列。",
+    "answer": [
+      "承口对着水流方向"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-023",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "水表按翼轮构造不同，分为____、____。",
+    "answer": [
+      "旋翼式",
+      "螺翼式"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-024",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "铸铁管的连接方法______、_____。",
+    "answer": [
+      "承插",
+      "法兰"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-025",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "气压给水设备按罐内水、气接触方式可分为______、______两类",
+    "answer": [
+      "补气式",
+      "隔膜式"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-026",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "高层建筑给水系统应采用____方式供水",
+    "answer": [
+      "竖向分区"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-027",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "给水设计流量主要分为_______和______",
+    "answer": [
+      "最大时平均秒流量",
+      "设计秒流量"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-028",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "高位水箱在建筑给水系统中起到______的作用",
+    "answer": [
+      "稳定水压、贮存和调节水量"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-029",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "水箱的有效容积应根据____之和计算",
+    "answer": [
+      "调节容积、生产事故备用水量、消防贮备水量"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-030",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "当管径一定时，在影响排水立管压力波动的因素中，可以调整改变的主要因素是",
+    "answer": [],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "parseWarning": "未检测到 Word 下划线答案，保留原句供人工检查"
+  },
+  {
+    "id": "blank-031",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "______和______。",
+    "answer": [
+      "终限流速",
+      "水舌阻力系数"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-032",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "卫生器具的“三大件”是______",
+    "answer": [
+      "洗脸盆、浴盆、坐式大便器"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题"
+    ]
+  },
+  {
+    "id": "blank-033",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "建筑物内的排水管道上设有环形通气管时，应设置连接各层环形通气管的_____或______",
+    "answer": [
+      "主通气立管",
+      "副通气立管"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "blank-034",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "建筑内部污废水排水管道系统按排水立管和通气立管的设置情况分为____三种。",
+    "answer": [
+      "单立管排水系统、双立管排水系统、三立管排水系统"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "blank-035",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "按配水管网水平干管的位置不同，可以分为 ____式和____的供水方式",
+    "answer": [
+      "下行上给",
+      "上行下给式"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-036",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "____ 和 ____",
+    "answer": [
+      "建筑内部热水供应系统按热水供应范围，可分为局部热水供应系统",
+      "集中热水供应系统",
+      "区域热水供应系统"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "blank-037",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "当高层建筑热水管网系统大，循环管路过长，用阀门调节不明显时，可采用____管网布置形式，更好的保证各配水点所需水温度。",
+    "answer": [
+      "同程式"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "blank-038",
+    "course": "建筑设备",
+    "type": "blank",
+    "question": "设计降雨强度应按______计算，建筑屋面雨水排水管道设计降雨历时应按______计算。",
+    "answer": [
+      "当地或相邻地区暴雨强度公式",
+      "5min"
+    ],
+    "sourceFile": "2填空题.docx",
+    "tags": [
+      "填空题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "tf-001",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "沿流程由于克服磨擦阻力做功消耗了水流的机械能而损失的水头，称为局部水头损失。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题"
+    ]
+  },
+  {
+    "id": "tf-002",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "民用建筑和公共建筑的新风量主要是从卫生要求考虑的，工业生产厂房的新风量应从卫生要求和维持空调房间的正压及满足排风量三方面考虑。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "tf-003",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "送风口位置应使新鲜空气直接送到人的工作地点或洁净区域；排风口一般设在室内有害物浓度最大地点。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "tf-004",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "制冷剂是在压缩式制冷系统中进行压缩、冷凝、蒸发三个主要热力过程。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题"
+    ]
+  },
+  {
+    "id": "tf-005",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "流体是气体、液体和固体的统称。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题"
+    ]
+  },
+  {
+    "id": "tf-006",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "压力对同一流体的μ值（动力粘度）影响大，而温度对μ值影响小。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题"
+    ]
+  },
+  {
+    "id": "tf-007",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "膨胀水箱的作用是容纳水受热后而增加的体积并排除系统内的空气。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "tf-008",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "房间气流组成合理，有害物源均匀地散发有害物，把这些有害物稀释到卫生标准浓度以下所需的风量称全面通风量。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "tf-009",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "空调风管穿过空调机房围护结构处，其孔洞四周的缝隙应填充密实，原因是隔绝噪声。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "tf-010",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "热水供暖系统中的膨胀水箱，只起容纳膨胀水量的作用。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "tf-011",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "自然循环热水供暖系统中，供水干管必须有向膨胀水箱方向上的坡向。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "tf-012",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "要使全面通风效果好，只需要足够的通风量。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "tf-013",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "住宅建筑的集中供暖多采用蒸汽供暖系统。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "tf-014",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "散热器布置在室内的外墙窗下最为合理。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "tf-015",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "通风房间的气流组织应使新鲜空气首先经过污染源区，再经过人员经常停留的地方。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "tf-016",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "一般来说，建筑设备中采暖系统比空调系统的能耗高。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "tf-017",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "空气的减湿处理较加湿处理容易完成。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题"
+    ]
+  },
+  {
+    "id": "tf-018",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "民用建筑的集中供暖多采用蒸汽供暖系统。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "tf-019",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "散热器布置在室内外墙窗下最为合理。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "tf-020",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "通风房间的气流组织应使新鲜空气首先经过工作区或人体活动区。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "tf-021",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "在建筑设备中，采暖系统的能耗最大。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "tf-022",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "空调房间的建筑设计原则，就是要尽量减少室外和周围环境对它的影响。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "tf-023",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "建筑消防给水系统对给水水质的要求较高。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "tf-024",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "污水管道的设计坡度与设计充满度、管径、管材等有关。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "tf-025",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "建筑中生活给水系统的水质应达到生活饮用水水质标准。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "tf-026",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "污水管道的设计坡度与管径有关，管径越大，通用坡度越大。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "tf-027",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "自动喷水灭火系统场所危险等级分为：轻危险级、中危险级、严重危险级、仓库危险级，其中仓库危险等级又分为Ⅰ级、Ⅱ级、Ⅲ级。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "消防设备"
+    ],
+    "module": "消防设备"
+  },
+  {
+    "id": "tf-028",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "室外消火栓的数量应按室外消防用水量计算，每个消火栓的用水量为15～20L/s",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "消防设备"
+    ],
+    "module": "消防设备"
+  },
+  {
+    "id": "tf-029",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "消火栓的配置为：栓口直径65mm，水带长度25m，水枪喷水口径13mm。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "消防设备"
+    ],
+    "module": "消防设备"
+  },
+  {
+    "id": "tf-030",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "结合通气管下端宜在排水横支管以下与排水立管以斜三通连接，上端可在卫生器具上边缘以上不小于0.15m处的通气立管以斜三通连接。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "tf-031",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "旅馆、公共浴室、医院、体育馆、游泳池及部分居住建筑应采用局部热水供应系统。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "tf-032",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "水加热设备的上部，热媒进出口管上，贮热水罐和冷热水混合器上应装设温度计、压力表。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "tf-033",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "下行上给式热水给水系统设有循环管道，其回水立管可在最高配水点以下0.5m与配水立管连接。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "tf-034",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "热水供应系统按热水管网循环动力分类可分为全天循环方式、定时循环方式",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "tf-035",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "将水从引入管输送到建筑物各区域的管段称分支管",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题"
+    ]
+  },
+  {
+    "id": "tf-036",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "排除管道内集聚的空气需安装的阀门有液压水位控制阀",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题"
+    ]
+  },
+  {
+    "id": "tf-037",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "各种给水龙头的出水口高出承接用水容器溢流边缘的最小空气间隙距离不得小于出水直径的1.5倍。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "tf-038",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "住宅用水定额为每天24小时使用的水量。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题"
+    ]
+  },
+  {
+    "id": "tf-039",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "消火栓水枪的充实水柱对扑灭初期火灾的成败有决定性的作用，超高层建筑消火栓的充实水柱不应小于130kPa，其他高层建筑不应小于100kPa。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "消防设备"
+    ],
+    "module": "消防设备"
+  },
+  {
+    "id": "tf-040",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "一个排水当量相当于0.2 L/S的排水流量。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑排水"
+    ],
+    "module": "建筑排水"
+  },
+  {
+    "id": "tf-041",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "消火栓系统管道内水流速度不宜大于1.5m/s。",
+    "answer": false,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "消防设备"
+    ],
+    "module": "消防设备"
+  },
+  {
+    "id": "tf-042",
+    "course": "建筑设备",
+    "type": "true_false",
+    "question": "给水管道对阀门安装方向有要求的为止回阀、截止阀。",
+    "answer": true,
+    "sourceFile": "3判断题.docx",
+    "tags": [
+      "判断题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "choice-001",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "自然循环热水供暖系统中，供水干管必须有向膨胀水箱方向（ ）的坡向。",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑给水"
+    ],
+    "module": "建筑给水",
+    "options": [
+      "上升",
+      "下降",
+      "平衡",
+      "转折"
+    ],
+    "explanation": "正确答案：A. 上升"
+  },
+  {
+    "id": "choice-002",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "手术室净化空调应保持（ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "常压",
+      "负压",
+      "正压",
+      "无压"
+    ],
+    "explanation": "正确答案：C. 正压"
+  },
+  {
+    "id": "choice-003",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "空调风管穿过空调机房围护结构处，其孔洞四周的缝隙应填充密实。原因是：（ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "防止漏风",
+      "避免温降",
+      "隔绝噪声",
+      "减少震动"
+    ],
+    "explanation": "正确答案：C. 隔绝噪声"
+  },
+  {
+    "id": "choice-004",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "金属压力表的读数值是（ ）。",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "绝对压强",
+      "相对压强",
+      "标准大气压强",
+      "真空度压强"
+    ],
+    "explanation": "正确答案：B. 相对压强"
+  },
+  {
+    "id": "choice-005",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "一次回风是指回风与新风在空气冷却设备之前进行混合，然后再经过各个处理设备，处理后的空气用风道送至空调房间，因此属（ ）系统。",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "单管系统",
+      "双管系统",
+      "水平系统",
+      "垂直系统"
+    ],
+    "explanation": "正确答案：A. 单管系统"
+  },
+  {
+    "id": "choice-006",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "对于含湿量一定的湿空气，焓值仅与（ ）有关。",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "含湿量",
+      "密度",
+      "温度",
+      "压强"
+    ],
+    "explanation": "正确答案：C. 温度"
+  },
+  {
+    "id": "choice-007",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "当温度降低，空气中能含有的水蒸气量下降，空气接近饱和。再降温，水蒸气会凝结出来，使空气达到饱和状态的温度称为（ ）。",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "干球温度",
+      "湿球温度",
+      "饱和温度",
+      "露点温度"
+    ],
+    "explanation": "正确答案：D. 露点温度"
+  },
+  {
+    "id": "choice-008",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "水封通常采用存水弯来实现，下列（ ）卫生设备不需要安装存水弯。",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "坐便器",
+      "洗脸盆",
+      "洗涤盆",
+      "浴盆"
+    ],
+    "explanation": "正确答案：A. 坐便器"
+  },
+  {
+    "id": "choice-009",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "生活给水系统的水表以（ ）选定水表的常用流量。",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑给水"
+    ],
+    "module": "建筑给水",
+    "options": [
+      "设计秒流量",
+      "日用水量",
+      "最大小时用水",
+      "平均小时用水量"
+    ],
+    "explanation": "正确答案：A. 设计秒流量"
+  },
+  {
+    "id": "choice-010",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "带水封的地漏水封深度不应小于（ ）mm，以防止水封被破坏，有害气体逸出",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "25",
+      "32",
+      "50",
+      "100"
+    ],
+    "explanation": "正确答案：C. 50"
+  },
+  {
+    "id": "choice-011",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "下列三种雨水排水系统：①87型雨水重力流系统 ②虹吸式系统 ③堰流式雨水斗重力流，系统的安全性顺序为（ ）",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "①②③",
+      "②①③",
+      "③②①",
+      "①③②"
+    ],
+    "explanation": "正确答案：A. ①②③"
+  },
+  {
+    "id": "choice-012",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "下列选项中,不是中水用途的有（ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "冲厕用水",
+      "绿化用水",
+      "消防用水",
+      "生活饮用水"
+    ],
+    "explanation": "正确答案：D. 生活饮用水"
+  },
+  {
+    "id": "choice-013",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "普通住宅生活饮用水管网自室外地面算起，估算5层室内所需的最小保证压力值（ ）。",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑给水"
+    ],
+    "module": "建筑给水",
+    "options": [
+      "16m",
+      "20m",
+      "24m",
+      "28m"
+    ],
+    "explanation": "正确答案：C. 24m"
+  },
+  {
+    "id": "choice-014",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "建筑内部各种卫生器具的水封高度最小不得小于（ ）mm。",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "100",
+      "50",
+      "60",
+      "30"
+    ],
+    "explanation": "正确答案：B. 50"
+  },
+  {
+    "id": "choice-015",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "设计中通常将一个污水盆的排水量作为一个排水当量，那么一个排水当量的实际值是（ ）L/s。",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "0.20",
+      "0.35",
+      "0.50",
+      "0.33"
+    ],
+    "explanation": "正确答案：D. 0.33"
+  },
+  {
+    "id": "choice-016",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "对于低层建筑消火栓给水管网管径不得小于（ ）mm。",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑给水"
+    ],
+    "module": "建筑给水",
+    "options": [
+      "50",
+      "60",
+      "80",
+      "100。"
+    ],
+    "explanation": "正确答案：A. 50"
+  },
+  {
+    "id": "choice-017",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "排水当量是给水当量的（ ）倍",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑给水"
+    ],
+    "module": "建筑给水",
+    "options": [
+      "1",
+      "2",
+      "1.65",
+      "1.21"
+    ],
+    "explanation": "正确答案：C. 1.65"
+  },
+  {
+    "id": "choice-018",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "排水管道最小管径（ ）。",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "DN100",
+      "DN25",
+      "DN150",
+      "DN50"
+    ],
+    "explanation": "正确答案：D. DN50"
+  },
+  {
+    "id": "choice-019",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "热水供水系统的循环立管应在配水立管最高点下大于等于（ ）。",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "options": [
+      "0.3m",
+      "0.5m",
+      "1.0m",
+      "0.6m"
+    ],
+    "explanation": "正确答案：B. 0.5m"
+  },
+  {
+    "id": "choice-020",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "确定管径大小用（ ）。",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "设计秒流量",
+      "最高日用水量",
+      "最大时用水量"
+    ],
+    "explanation": "正确答案：A. 设计秒流量"
+  },
+  {
+    "id": "choice-021",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "我国推导暴雨强度公式实测降雨资料的最小时段为（ ）。",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "5min",
+      "10min m",
+      "20min",
+      "15min"
+    ],
+    "explanation": "正确答案：A. 5min"
+  },
+  {
+    "id": "choice-022",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "供暖系统中的柱型散热器在散热原理上主要是依靠：        （ ）",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "options": [
+      "对流散热",
+      "辐射散热",
+      "传导散热",
+      "交换散热"
+    ],
+    "explanation": "正确答案：A. 对流散热"
+  },
+  {
+    "id": "choice-023",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "关于热交换站的说法，以下不正确的是：                   （ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "其作用是通过换热器加热二次热力网的低温水",
+      "小区热交换站可采用独立式或附设式",
+      "建筑面积较大，和锅炉房差不多",
+      "城市道路若布置有一次热力管道，小区内可规划换热站作为热源"
+    ],
+    "explanation": "正确答案：C. 建筑面积较大，和锅炉房差不多"
+  },
+  {
+    "id": "choice-024",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "工业厂房的净高较大且带有天窗，主要目的是为了加强：     （ ）",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "采光",
+      "热压通风",
+      "风压通风",
+      "机械通风"
+    ],
+    "explanation": "正确答案：B. 热压通风"
+  },
+  {
+    "id": "choice-025",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "小型家用柜式空调机组在制冷原理上属于：                 （ ）",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "压缩式制冷",
+      "吸收式制冷",
+      "喷射式制冷",
+      "冰蓄冷"
+    ],
+    "explanation": "正确答案：A. 压缩式制冷"
+  },
+  {
+    "id": "choice-026",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "关于供暖燃煤锅炉房的选址原则，以下错误的是：          （ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "options": [
+      "靠近热负荷中心",
+      "冬季主导风下风侧",
+      "布置在地势较高处",
+      "和其他建筑保持足够的防护距离"
+    ],
+    "explanation": "正确答案：C. 布置在地势较高处"
+  },
+  {
+    "id": "choice-027",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "集中供暖系统按热媒不同分类，不包括下列哪种？            （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "options": [
+      "热水采暖系统",
+      "蒸汽采暖系统",
+      "热风采暖系统",
+      "燃气采暖系统"
+    ],
+    "explanation": "正确答案：D. 燃气采暖系统"
+  },
+  {
+    "id": "choice-028",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "采暖管道设坡度主要是为了：                             （ ）",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "options": [
+      "便于排气",
+      "便于施工",
+      "便于水循环",
+      "便于放水"
+    ],
+    "explanation": "正确答案：A. 便于排气"
+  },
+  {
+    "id": "choice-029",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "自然通风的动力来自于：                                 （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "风压",
+      "气温",
+      "热压",
+      "风压和热压"
+    ],
+    "explanation": "正确答案：D. 风压和热压"
+  },
+  {
+    "id": "choice-030",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "供暖系统按热媒不同分类，不包括下列哪种？                （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "options": [
+      "热水",
+      "蒸汽",
+      "热风",
+      "土壤"
+    ],
+    "explanation": "正确答案：D. 土壤"
+  },
+  {
+    "id": "choice-031",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "采暖管道设坡度主要是为了：                             （ ）",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "options": [
+      "便于排气",
+      "便于施工",
+      "便于水循环",
+      "便于放水"
+    ],
+    "explanation": "正确答案：A. 便于排气"
+  },
+  {
+    "id": "choice-032",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "工业厂房的净高较大，目的是为了加强自然通风的何种动力？  （ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "风压",
+      "气温",
+      "热压",
+      "风压和热压"
+    ],
+    "explanation": "正确答案：C. 热压"
+  },
+  {
+    "id": "choice-033",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "某纺织厂生产车间的空调系统宜采用：                     （ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "舒适性空调",
+      "人工气候室",
+      "恒温恒湿空调",
+      "净化空调"
+    ],
+    "explanation": "正确答案：C. 恒温恒湿空调"
+  },
+  {
+    "id": "choice-034",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "风机盘管加新风的空调系统最突出的优点是：               （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "安装方便",
+      "美观",
+      "寿命较长",
+      "单独控制"
+    ],
+    "explanation": "正确答案：D. 单独控制"
+  },
+  {
+    "id": "choice-035",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "小型家用空调机在制冷原理上属于：                       （ ）",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "压缩式制冷",
+      "吸收式制冷",
+      "喷射式制冷",
+      "冰蓄冷"
+    ],
+    "explanation": "正确答案：A. 压缩式制冷"
+  },
+  {
+    "id": "choice-036",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "需设置机械防烟系统的场所是下列哪种？                   （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "中庭",
+      "内走道",
+      "地下室",
+      "楼梯间"
+    ],
+    "explanation": "正确答案：D. 楼梯间"
+  },
+  {
+    "id": "choice-037",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "下列哪种燃气的低发热值最高？                           （ ）",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "天然气",
+      "液化石油气",
+      "人工煤气",
+      "沼气"
+    ],
+    "explanation": "正确答案：B. 液化石油气"
+  },
+  {
+    "id": "choice-038",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "某四层普通住宅建筑，生活给水系统最不利点所需水压约为：  （ ）",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑给水"
+    ],
+    "module": "建筑给水",
+    "options": [
+      "0.4MPa",
+      "20mH2O",
+      "40mH2O",
+      "2MPa"
+    ],
+    "explanation": "正确答案：B. 20mH2O"
+  },
+  {
+    "id": "choice-039",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "在不允许供水间断的建筑内，从室外管网不同管段至少接入几条引入管？",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑给水"
+    ],
+    "module": "建筑给水",
+    "options": [
+      "一条",
+      "两条",
+      "三条",
+      "四条"
+    ],
+    "explanation": "正确答案：B. 两条"
+  },
+  {
+    "id": "choice-040",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "下列哪种建筑的生活热水供应系统宜采用不循环式？          （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "供暖系统"
+    ],
+    "module": "供暖系统",
+    "options": [
+      "星级宾馆",
+      "高层住宅",
+      "幼儿园",
+      "公共浴室"
+    ],
+    "explanation": "正确答案：D. 公共浴室"
+  },
+  {
+    "id": "choice-041",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "中水系统从原水、处理难度、用途等分析，规模最为合理的是： （ ）",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "城市中水",
+      "小区中水",
+      "建筑中水",
+      "区域中水"
+    ],
+    "explanation": "正确答案：B. 小区中水"
+  },
+  {
+    "id": "choice-042",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "关于室内污水立管的说法，以下错误的是：                   （ ）",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "靠近杂质最多、污水量大的排水点",
+      "考虑检修方便，必须明装",
+      "尽量靠近墙角、柱角布置",
+      "对于多层住宅，立管通气方式可以普通伸顶通气"
+    ],
+    "explanation": "正确答案：B. 考虑检修方便，必须明装"
+  },
+  {
+    "id": "choice-043",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "关于化粪池的说法，以下错误的是：                         （ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "是去除生活污水悬浮有机物的初级处理设施",
+      "宜设在建筑背侧靠近卫生间的地方",
+      "距建筑外墙不宜小于30米",
+      "在没有市政污水管网的情况下，化粪池出水可直接排入水体"
+    ],
+    "explanation": "正确答案：C. 距建筑外墙不宜小于30米"
+  },
+  {
+    "id": "choice-044",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "宾馆、写字楼的空调属于：                               （ ）",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "舒适性空调",
+      "工艺性空调",
+      "恒温恒湿空调",
+      "净化空调"
+    ],
+    "explanation": "正确答案：A. 舒适性空调"
+  },
+  {
+    "id": "choice-045",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "风机盘管加新风空调系统的突出优点是：                   （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "通风与空调"
+    ],
+    "module": "通风与空调",
+    "options": [
+      "安装方便",
+      "美观",
+      "寿命较长",
+      "单独控制"
+    ],
+    "explanation": "正确答案：D. 单独控制"
+  },
+  {
+    "id": "choice-046",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "溴化锂机组在制冷原理上属于：                           （ ）",
+    "answer": "B",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "压缩式制冷",
+      "吸收式制冷",
+      "冰蓄冷",
+      "热泵技术"
+    ],
+    "explanation": "正确答案：B. 吸收式制冷"
+  },
+  {
+    "id": "choice-047",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "下列哪种场所需设排烟系统？                             （ ）",
+    "answer": "A",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "地下室",
+      "楼梯间",
+      "封闭的避难层",
+      "前室"
+    ],
+    "explanation": "正确答案：A. 地下室"
+  },
+  {
+    "id": "choice-048",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "厨房内燃气管道的压力属于：                             （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题"
+    ],
+    "options": [
+      "高压",
+      "中压",
+      "中低压",
+      "低压"
+    ],
+    "explanation": "正确答案：D. 低压"
+  },
+  {
+    "id": "choice-049",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "自动喷水消防系统中的水幕系统主要作用是：              （ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "消防设备"
+    ],
+    "module": "消防设备",
+    "options": [
+      "燃烧物直接灭火",
+      "消除火灾烟气",
+      "阻挡明火和烟气",
+      "火灾房间降温"
+    ],
+    "explanation": "正确答案：C. 阻挡明火和烟气"
+  },
+  {
+    "id": "choice-050",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "关于室内污水系统中通气管的说法，以下错误的是：        （ ）",
+    "answer": "D",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "将污水管道中的臭气排到室外",
+      "避免卫生器具的水封破坏",
+      "排污水时压力变化小",
+      "高层建筑的污水系统宜采用普通伸顶通气"
+    ],
+    "explanation": "正确答案：D. 高层建筑的污水系统宜采用普通伸顶通气"
+  },
+  {
+    "id": "choice-051",
+    "course": "建筑设备",
+    "type": "single_choice",
+    "question": "卫生间内连接座便器的排水支管规定的最小管径为：        （ ）",
+    "answer": "C",
+    "sourceFile": "4选择题.docx",
+    "tags": [
+      "选择题",
+      "建筑排水"
+    ],
+    "module": "建筑排水",
+    "options": [
+      "DN50",
+      "DN75",
+      "DN100",
+      "DN150"
+    ],
+    "explanation": "正确答案：C. DN100"
+  },
+  {
+    "id": "short-001",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "简述生活排水系统的组成与作用？",
+    "answer": "（1）受水器：收集和排除污废水的设备（1分）\n（2）排水管道：排水管道包括器具排水管(含存水弯)，排水横支管、立管、埋地干管和排出管。输送污废水至室外检查井（2分）\n（3）清通设备：为疏通建筑内部排水管道，保障排水畅通的设备。（2分）（4）通气管道：为防止因气压波动造成水封破坏，将排水管内臭气和有害气体排到大气中，需在建筑内部排水系统中设置通气管道。（2分）\n（5）提升设备：将污水排到室外排水管道中去。（2分）\n（6）污水局部处理构筑物：处理不允许直接排入市政排水管网或水体的构筑物（1分）",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "short-002",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "室内消火栓箱由哪几个组成部分、它的作用和规格有哪些？（10分）",
+    "answer": "（1）水枪：用来直接对着着火点喷水设施；13mm、16mm、19mm（2分）\n（2）水带：将管网中的水输送到着火点；50mm、65mm（2分）\n（3）消火栓口：连接管网与水袋相连；50mm、65mm（2分）\n（4）阀门：开启和关闭消防管道中的水流（2分）\n（5）消防卷盘：小型的消火栓设施，用于普通人员灭火。（2分）",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "short-003",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "热水供应系统保温的目的和保温材料应符合的条件是什么？",
+    "answer": "目的：是减少介质在输送过程中的热散失，从而降低热水制备、循环流量的热量，创造经济性良好的环境。\n要求：保温材料应符合导热系数小 具有一定机械强度、重量轻、没有腐蚀性、易于施工成型及就地取材。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "short-004",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "什么是防火分区和防烟分区？两者有什么异同点？",
+    "answer": "防火分区是指在建筑内部采用防火墙、楼板及其他防火分隔设施分割而成，能在一定时间内防止火灾向同一建筑的其余部分蔓延的局部空间。\n防烟分区是指以屋顶挡烟隔板、挡烟垂壁、隔墙或结构梁来划分区域的防烟空间。防烟分区设置的目的是将烟气控制在着火区域所在的空间范围内，并限制烟气从储烟仓向其他区域蔓延。\n防烟分区是防火分区的细分，防烟分区不能跨越防火分区。两者的不同：1）目的不同；2）面积大小不同；3）分隔设施不同",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题"
+    ]
+  },
+  {
+    "id": "short-005",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "蒸汽供暖系统与热水供暖相比的特点有哪些？",
+    "answer": "蒸汽供暖系统中的热媒是蒸汽。蒸汽进入散热器后放出汽化潜热，凝结为同温度的凝结水后回到热源。由于蒸汽的汽化潜热比同样重量的热水所携带的显热的热量大很多，因此，在热负荷相同的情况下，蒸汽量比热水流量小很多。同时由于蒸汽系统散热器平均温度比热水系统高，因而可以减少散热器面积",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "供暖系统"
+    ],
+    "module": "供暖系统"
+  },
+  {
+    "id": "short-006",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "什么是等电位联结，其作用是什么？",
+    "answer": "将建筑物电气装置内外露可导电部分、电气装置外可导电部分、人工或自然接地体用导体连接起来以达到减少电位差，称为等电位联结。\n等电位联结对用电安全、防雷以及电子信息设备的正常工作和安全使用，都是十分必要的。根据理论分析，等电位联结作用范围越小，电气上越安全。实际上安全接地也是等电位联结，它是以大地电位为参考电位的大范围的等电位联结。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "建筑电气"
+    ],
+    "module": "建筑电气"
+  },
+  {
+    "id": "short-007",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "电力负荷分几级？各级负荷对供电电源有何要求？",
+    "answer": "电力负荷分为三级。各级负荷对供电电源的要求如下：\n一级负荷：应由两个独立电源供电，一用一备，当一个电源发生故障时，另一个电源应不致同时受到损坏。一级负荷中的特别重要负荷，除上述两个电源外，还必须增设应急电源。为保证对特别重要负荷的供电，禁止将其他负荷接入应急供电系统。\n二级负荷：要求采用两个电源供电，一用一备，两个电源应做到当发生电力变压器故障或线路常见故障时不致中断供电（或中断供电后能迅速恢复）。在负荷较小或地区供电条件困难时，二级负荷可由一路6KV及以上的专用架空线供电。\n三级负荷：三级负荷对供电电源无要求，一般为一路电源供电即可，但在可能的情况下，也应提高其供电的可靠性。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题"
+    ]
+  },
+  {
+    "id": "short-008",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "高层建筑给水系统为什么要进行竖向分区？常用的分区方式有哪几种？",
+    "answer": "答：为克服高层建筑同一给水系统供水低层管道中静水压力过大的弊病，保证建供水的安全可靠性，高层建筑给水系统应采取竖向分区供水，即在建筑物的垂直方向分为几个区，每个区有若干层，分别组成各自的给水系统。\n高层建筑给水系统竖向分区的基本形式有以下几种：串联式、并联式、减压式和室外高、低压给水管网直接供水。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "short-009",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "第一、二循环系统管网水力计算的目的是什么？",
+    "answer": "热水第一循环管网（热媒管网）水力计算的目的是确定管径和相应的水头损失\n热水第二循环管网（配水管网和回水管网）水力计算的目的是确定设计秒流量、循环流量、管径 、水头损失。确定循环方式，选择热水管网所需的各种设备，如循环水泵、疏水器、膨胀设施等。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "short-010",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "电线和电缆线的截面积选择应满足的条件有哪些？",
+    "answer": "1)、不因长期通过负荷电流使导线过热，以避免损坏绝缘或短路失火等事故；（2分）\n2)、有足够的机械强度，避免因刮风、结冰或施工等原因被拉断；（2分）\n3)、线路上电压损失不能过大，对于电力线路，电压损失一般不能超过额定电压的10%，对于照明电路一般不能超过5%。（3分）",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "建筑电气"
+    ],
+    "module": "建筑电气"
+  },
+  {
+    "id": "short-011",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "什么叫自动喷水消防水系统？主要由哪些部分组成？（10分）",
+    "answer": "自动喷水灭火系统是一种发生火灾时，喷头能自动打开喷水（或喷雾）实现控火、灭火，火灾进行防火分隔、防护冷却，并同时发出火警信号的消防给水灭火系统。（5分）\n组成：消防水泵、管线、喷头、控制阀、水泵接合器、报警阀、水力警铃、压力开关、末端试水装置等（5分）",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "建筑给水"
+    ],
+    "module": "建筑给水"
+  },
+  {
+    "id": "short-012",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "集中式空调系统系统是由哪些部分组成，各有什么作用？",
+    "answer": "空气处理设备：主要是对空气进行加热、冷却、加湿、减湿、净化等处理。（2分）\n空气输送管道：经过处理的空气经过管道系统输送至工作区，并将室内需要处理的空气经过管道系统输送至空气处理设备中。（2分）\n空气分配装置：包括各种送风口和送风装置等。（2分）\n冷、热源设备：指为空气处理设备输送冷量和热量的设备。（2分）\n电气控制装置：由温度、湿度等空气参数的控制设备及元器件等组成。 （2分）",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "short-013",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "建筑室内通风的分类有哪些？什么是自然通风？对于像煅造车间、食堂等热污染较重的场所，通常采用那种通风方式，原因是什么？",
+    "answer": "建筑室内通风包括送风和排风，按作用范围不同，分为局部的和全面的两种方式；按通风系统的工作动力不同，分为自然通风和机械通风两种。（3分）\n自然通风利用室内外空气的温度差引起的热压或风力作用造成的风压使空气流动，实现通风换气的一种通风方法。（2分）\n对于像煅造车间、食堂等热污染较重的场所，通常采用机械排风通风方式，原因是采用机械排风，排风量大于进风量，使房间维持一定的负压，不足的空气量由邻室或室外渗风补充，避免卫生条件差的空气流入卫生条件高的房间。（5分）",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "short-014",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "灯具的分类方式有哪些?各包含哪些灯具种类?",
+    "answer": "按配光曲线分类：\n(1)直接配光(直射型灯具)(2)半直接配光(半直射型灯具)(3)均匀扩散配光(漫射型灯具)(4)半间接配光(光间接型灯具)(5)间接配光(间接型灯具) （4分）\n按结构特点分类：\n(1)开启型(2)闭合型(3)密闭型(4)防爆型（4分）\n按安装方式分类\n悬吊式(2)吸顶式(3)壁式(4)嵌入式(暗式) （2分）",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题"
+    ]
+  },
+  {
+    "id": "short-015",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "什么是全面通风和局部通风?各有什么优点、缺点?",
+    "answer": "全面通风是对整个房间进行通风换气，用送入室内的新鲜空气把房间里的有害物质浓度稀释到国家卫生标准的允许浓度以下。\n局部通风是采用局部气流,对人员工作地点进行通风换气,使其不受有害物质的污染,以形成良好的局部工作环境。\n与全面通风相比,局部排风除了能有效地防止有害物质污染环境和危害人们的身体健康外,还可以大大地减少排除有害物质所需的通风量,是一种经济的排风方式。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "short-016",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "常用的空调制冷方式有哪些?",
+    "answer": "压缩式制冷：压缩式制冷机是利用“液体气化时要吸收热量”的物理特性, 通过制冷剂的热力循环, 以消耗一定量的机械能作为补偿条件来达到制冷的目的。\n吸收式制冷：吸收式制冷和压缩式制冷的机理相同,都是利用液态制冷剂在一定压力下和低温状态下吸热气化而制冷。但在吸收式制冷机组中促使制冷剂循环的方法与前者有所不同。压缩式制\n蒸汽喷射式制冷：按照制冷机组冷凝器的冷却方式制冷。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "short-017",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "简述民用建筑和一般工业建筑（无工业污染物发生）空调房间最小新风量的确定原则。",
+    "answer": "1）稀释人群本身和活动所产生的污染物，保证人群对空气品质的要求；\n2）补充室内燃烧所耗的空气量和局部排风量；\n3）保证房间的正压。\n4）不小于系统风量的10%。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题",
+      "通风与空调"
+    ],
+    "module": "通风与空调"
+  },
+  {
+    "id": "short-018",
+    "course": "建筑设备",
+    "type": "short_answer",
+    "question": "常用的应急电源有哪几种？",
+    "answer": "（1）独立于正常电源的发电机组。\n（2）供电网络中独立于正常电源的专用的馈电线路。\n（3）蓄电池（包括大容量UPS或EPS不间断电源）。\n（4）干电池。",
+    "sourceFile": "5简答题.docx",
+    "tags": [
+      "简答题"
+    ]
+  }
+]

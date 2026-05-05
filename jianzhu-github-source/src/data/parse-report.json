@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-05-05T14:57:18.437Z",
+  "totalQuestions": 169,
+  "byFile": {
+    "1概念题.docx": 20,
+    "2填空题.docx": 38,
+    "3判断题.docx": 42,
+    "4选择题.docx": 51,
+    "5简答题.docx": 18
+  },
+  "byType": {
+    "concept": 20,
+    "blank": 38,
+    "true_false": 42,
+    "single_choice": 51,
+    "short_answer": 18
+  },
+  "warnings": [
+    {
+      "id": "blank-012",
+      "type": "blank",
+      "sourceFile": "2填空题.docx",
+      "question": "按照回水动力的的不同，蒸汽供暖系统可以分为(重力回水和机械回水)两种方式。",
+      "parseWarning": "未检测到 Word 下划线答案，保留原句供人工检查"
+    },
+    {
+      "id": "blank-030",
+      "type": "blank",
+      "sourceFile": "2填空题.docx",
+      "question": "当管径一定时，在影响排水立管压力波动的因素中，可以调整改变的主要因素是",
+      "parseWarning": "未检测到 Word 下划线答案，保留原句供人工检查"
+    }
+  ],
+  "missingAnswers": [
+    {
+      "id": "blank-012",
+      "type": "blank",
+      "sourceFile": "2填空题.docx",
+      "question": "按照回水动力的的不同，蒸汽供暖系统可以分为(重力回水和机械回水)两种方式。",
+      "parseWarning": "未检测到 Word 下划线答案，保留原句供人工检查"
+    },
+    {
+      "id": "blank-030",
+      "type": "blank",
+      "sourceFile": "2填空题.docx",
+      "question": "当管径一定时，在影响排水立管压力波动的因素中，可以调整改变的主要因素是",
+      "parseWarning": "未检测到 Word 下划线答案，保留原句供人工检查"
+    }
+  ],
+  "choiceMissingOptions": []
+}
